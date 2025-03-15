@@ -1,5 +1,18 @@
 # NLP_2024_Fall
-This is a repository for NLP studies during 2024 fall semester
+This is a repository for NLP course during 2024 fall semester.
+
+Homework code includes four projects. Homework 1 is to implement functions to compute dense word vectors 
+from a word co-occurrencematrix using SVD. Homework 2 is to create a RNN pipeline. Homework 3 
+is to finetune a BERT-base model forsentiment analysis using the IMDB dataset. Homework 4 is to conduct 
+prompt energeering for math computation and test in context learning.
+
+Our final project centers on enhancing the Inverse Cooking model, which employs a dual-encoder to
+extract ingredients and generate cooking instructions from food images. We have focused on
+improving ingredient prediction accuracy and producing contextually relevant, coherent recipes.
+This work sets the foundation for expanding into more advanced models like ChefFusion, which
+leverages multimodal embeddings to connect vision and language, and FIRE, which integrates Vision
+Transformers with language models for richer output. These future steps aim to push recipe generation
+capabilities even further.
 
 ## Motivation
 
